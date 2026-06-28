@@ -1,3 +1,4 @@
+
 # Basics
 
 This directory contains Bash scripts that demonstrate basic Linux shell commands.
@@ -5,3 +6,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 ## Scripts
 
 - **0-current_working_directory**: Prints the absolute pathname of the current working directory.
+
+- **1-listit**: Displays the contents of the current directory
