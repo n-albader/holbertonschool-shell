@@ -32,3 +32,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **12-file_type** - Prints the type of the file `/tmp/iamafile`.
 
 - **13-symbolic_link** - Creates a symbolic link named `__ls__` pointing to `/bin/ls`.
+
+- **14-copy_html** - Copies all HTML files to the parent directory, copying only new or newer files.
