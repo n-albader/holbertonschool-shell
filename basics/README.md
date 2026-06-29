@@ -20,3 +20,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **6-firstdirectory** - Creates the directory `/tmp/my_first_directory`.
 
 - **7-movethatfile** - Moves the file `/tmp/betty` to `/tmp/my_first_directory`.
+
+- **8-firstdelete** - Deletes the file `/tmp/my_first_directory/betty`.
