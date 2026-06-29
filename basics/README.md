@@ -18,3 +18,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **5-listfilesdigitonly** - Displays directory contents in long format, including hidden files, with numeric user and group IDs.
 
 - **6-firstdirectory** - Creates the directory `/tmp/my_first_directory`.
+
+- **7-movethatfile** - Moves the file `/tmp/betty` to `/tmp/my_first_directory`.
