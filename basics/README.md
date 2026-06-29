@@ -26,3 +26,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **9-firstdirdeletion** - Deletes the `/tmp/my_first_directory` directory.
 
 - **10-back** - Changes the current working directory to the previous one.
+
+- **11-lists** - Lists all files (including hidden files) in the current directory, parent directory, and `/boot` in long format.
