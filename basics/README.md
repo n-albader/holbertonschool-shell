@@ -28,3 +28,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **10-back** - Changes the current working directory to the previous one.
 
 - **11-lists** - Lists all files (including hidden files) in the current directory, parent directory, and `/boot` in long format.
+
+- **12-file_type** - Prints the type of the file `/tmp/iamafile`.
