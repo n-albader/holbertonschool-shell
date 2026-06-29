@@ -10,3 +10,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **1-listit**: Displays the contents of the current directory
 
 - **2-bring_me_home** - Changes the current working directory to the user's home directory.
+
+- **3-listfiles** - Displays the contents of the current directory in long format.
