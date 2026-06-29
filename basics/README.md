@@ -14,3 +14,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **3-listfiles** - Displays the contents of the current directory in long format.
 
 - **4-listmorefiles** - Displays current directory contents in long format, including hidden files.
+
+- **5-listfilesdigitonly** - Displays directory contents in long format, including hidden files, with numeric user and group IDs.
