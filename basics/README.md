@@ -38,3 +38,5 @@ This directory contains Bash scripts that demonstrate basic Linux shell commands
 - **15-lets_move** - Moves all files beginning with an uppercase letter to `/tmp/u`.
 
 - **16-clean_emacs** - Deletes all files in the current directory that end with `~`.
+
+- **17-tree** - Creates the directories `welcome/`, `welcome/to/`, and `welcome/to/school`.
